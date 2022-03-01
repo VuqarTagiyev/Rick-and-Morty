@@ -3,7 +3,7 @@ import Footer from "./Footer";
 import Header from "./Header";
 
 // styels
-import styles from "./Layout.module.css";
+import styles from "./layout.module.css";
 
 const Layout = ({ children }) => {
   return (
